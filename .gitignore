@@ -1,8 +1,10 @@
 *
 !*.*
-!./hello-world/helloworld.asm
-
-*helloworld.bin
-*helloworld.o
+!/*/
+!*.asm
+!/*/.asm
+!./*
+*/*.bin
+*/*.o
 *.o
 *.bin
