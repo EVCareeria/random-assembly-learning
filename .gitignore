@@ -1,5 +1,7 @@
 *
 !*.*
-
-helloworld.bin
-helloworld.o
+!./*
+*helloworld.bin
+*helloworld.o
+*.o
+*.bin
