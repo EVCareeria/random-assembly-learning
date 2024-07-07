@@ -1,6 +1,7 @@
 *
 !*.*
-!./*
+!./hello-world/helloworld.asm
+
 *helloworld.bin
 *helloworld.o
 *.o
